@@ -1,6 +1,5 @@
 #EXTM3U
 
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 #EXTINF:-1 tvg-id="" tvg-name="Al Jazeera Arabic" tvg-logo="" group-title="News",Al Jazeera Arabic
 http://vt.vttpi.com:8000/live/351656593372407/936692613947607/162.ts
 #EXTINF:-1 tvg-id="" tvg-name="Al Jazeera English" tvg-logo="" group-title="News",Al Jazeera English
