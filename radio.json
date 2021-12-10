@@ -3,7 +3,32 @@
     "name":"محطة مصر",
         "url":"https://s3.radio.co/s9cb11828c/listen",
             "img":"https://cdn.onlineradiobox.com/img/l/6/27766.v5.png"
+  },
+    {
+    "name":"راديو مصر الجديدة",
+        "url":"https://streaming.radio.co/scc13a6b96/listen",
+            "img":"https://cdn.onlineradiobox.com/img/l/1/27781.v1.png"
+  },
+    {
+    "name":"نجوم إف إم",
+        "url":"https://reach-audio.esteam.rocks/radio/8000/live.mp3?1599603662",
+            "img":"https://cdn.onlineradiobox.com/img/l/0/27750.v13.png"
+  },
+    {
+    "name":"عرب ميكس",
+        "url":"https://stream.zeno.fm/na3vpvn10qruv.acc",
+            "img":"https://cdn.onlineradiobox.com/img/l/4/76384.v20.png"
+  },
+      {
+    "name":"Radio Al Jazeera English",
+        "url":"https://live-hls-audio-web-aje.getaj.net/VOICE-AJE/index.m3u8",
+            "img":"https://cdn.onlineradiobox.com/img/l/0/44570.v11.png"
+  },
+      {
+    "name":"Eman Live",
+        "url":"https://onlineradiobox.com/json/eg/emanlive/play?platform=web",
+            "img":"https://cdn.onlineradiobox.com/img/l/5/28035.v4.png"
   }
-]
+  ]
   
   
