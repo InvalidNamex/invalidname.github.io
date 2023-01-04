@@ -1,0 +1,6 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", 
+              "package_name": "com.smartsolution.travel",
+               "sha256_cert_fingerprints": ["C8:7B:FF:DE:D9:AD:DE:AC:BC:24:D8:B3:3C:D5:A5:97:F1:F3:6A:6F:03:66:A0:C6:8A:CA:76:80:EF:54:7F:7B"] }
+}]
